@@ -1,4 +1,4 @@
-# Chat_Application
+<h1 align="center">Chat_Application</h1>
 I Developed a Chat_Application which based on CUI using java language.
 
 # Introductions 
